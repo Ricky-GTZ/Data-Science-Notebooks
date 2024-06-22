@@ -1,0 +1,4 @@
+brazil': 25,
+ 'mexico': [21, 23, 24, 18, 22, 20, 18],
+ 'peru': 'lima',
+ 'ecuador': 19
